@@ -1,5 +1,3 @@
-<img width="656" height="267" alt="Screenshot 2026-10-15 104348" src="https://github.com/user-attachments/assets/ae5223aa-d69b-4763-9b4a-c752ceb97ea5" /># cit3102-m5-restaurant
-
 ## 1. Project Information
 * **Project Title:** Restaurant Resource API
 * **Partner 1:** Jhon Michael V. Balang
