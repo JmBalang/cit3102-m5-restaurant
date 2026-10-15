@@ -1,8 +1,8 @@
 ## 1. Project Information
 * **Project Title:** Restaurant Resource API
 * **Partner 1:** Jhon Michael V. Balang
-* **Partner 2:** [Partner's Full Name]
-* **Section:** [Your Section, e.g., BSIT 3-A]
+* **Partner 2:** Joshua Y Galang
+* **Section:** BSIT-IT2E
 * **Resource:** Restaurant (Fields: `Customer_ID` [Int], `Customer_name` [String], `Order` [String], `Payment` [Float])
 
 ## 2. Setup Steps (Fresh Clone)
