@@ -1,4 +1,4 @@
-# cit3102-m5-restaurant
+<img width="656" height="267" alt="Screenshot 2026-10-15 104348" src="https://github.com/user-attachments/assets/ae5223aa-d69b-4763-9b4a-c752ceb97ea5" /># cit3102-m5-restaurant
 
 ## 1. Project Information
 * **Project Title:** Restaurant Resource API
@@ -42,6 +42,20 @@
 <img width="622" height="280" alt="Screenshot 2026-10-15 101219" src="https://github.com/user-attachments/assets/9bcef21a-4d46-453d-82ce-b6b4ff7a94d9" />
 <img width="623" height="272" alt="Screenshot 2026-10-15 101231" src="https://github.com/user-attachments/assets/f8869129-ad68-42cf-9751-a9eca7a5bbe1" />
 <img width="641" height="307" alt="Screenshot 2026-10-15 101237" src="https://github.com/user-attachments/assets/e3dfb5f0-6202-4184-9833-a0c11c98ef23" />
+<img width="645" height="262" alt="Screenshot 2026-10-15 104342" src="https://github.com/user-attachments/assets/ab14b514-ec64-4e87-bbad-558e639f57aa" />
+<img width="656" height="267" alt="Screenshot 2026-10-15 104348" src="https://github.com/user-attachments/assets/543cab36-f6ae-4970-9ae2-c5cf2693fd93" />
+<img width="668" height="283" alt="Screenshot 2026-10-15 104355" src="https://github.com/user-attachments/assets/a02e9a15-7d41-4f4e-8297-9e20e7e2fd6b" />
+<img width="645" height="283" alt="Screenshot 2026-10-15 104400" src="https://github.com/user-attachments/assets/a2351f21-96b9-4c7d-9f2f-3c8e358dd9e1" />
+<img width="646" height="297" alt="Screenshot 2026-10-15 104404" src="https://github.com/user-attachments/assets/c9da7cd5-0d12-4b19-98a2-410d9813f807" />
+<img width="631" height="322" alt="Screenshot 2026-10-15 104408" src="https://github.com/user-attachments/assets/8986e779-f650-4304-ab5a-081173eaec49" />
+
+
+
+
+
+
+
+
 
 
 
