@@ -62,5 +62,4 @@
 
 
 ## 5. Why DELETE returns 204 and not 200?
-The DELETE HTTP request method returns a 204 No Content status code because the server has successfully processed the request to remove the target resource, and there is no data payload left to send back to the client. Unlike a 200 OK response which returns updated or retrieved entity data in the response body, 204 explicitly confirms that the resource was deleted while avoiding unnecessary bandwidth usage. Returning 204 No Content directly signals to the client that the action was successful and the resource no longer exists.
-
+The DELETE HTTP request method returns a 204 No Content status code, because the server has successfully processed the request to delete the target resource, and there is no data payload to return to the client. A 204 response is a response that confirms the resource was deleted, but does not return the updated or retrieved entity data in the response body as a 200 OK response would. Returning 204 No Content simply informs the client that the action was successful and the resource is no longer available.
